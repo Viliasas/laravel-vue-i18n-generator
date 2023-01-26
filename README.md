@@ -3,9 +3,6 @@
 **This package is an updated copy of no longer maintained [laravel-vue-i18n-generator](https://github.com/martinlindhe/laravel-vue-i18n-generator) package.**
 
 
-[![Build Status](https://travis-ci.org/viliasas/laravel-vue-i18n-generator.png?branch=master)](https://travis-ci.org/viliasas/laravel-vue-i18n-generator)
-
-
 Laravel 9 package that allows you to share your [Laravel localizations](https://laravel.com/docs/9.x/localization)
 with your [vue](http://vuejs.org/) front-end, using [vue-i18n](https://github.com/kazupon/vue-i18n) or [vuex-i18n](https://github.com/dkfbasel/vuex-i18n).
 
